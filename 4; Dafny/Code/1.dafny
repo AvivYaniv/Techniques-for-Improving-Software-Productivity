@@ -1,0 +1,22 @@
+method Product (m: nat, n: nat) returns (res:nat)
+ ensures res == m * n;
+{
+ var m1: nat := m; res := 0;
+ while (m1 != 0)
+ invariant 
+      0 <= m1 <= m &&
+      res == (m-m1) * n
+      
+ {
+ var n1: nat := n;
+ while (n1 != 0)
+ invariant
+      0 <= n1 <= n &&
+      res == ((n * (m-m1)) + (n-n1))
+ {
+ res := res + 1;
+ n1 := n1 - 1;
+ }
+ m1 := m1 - 1;
+ }
+}
