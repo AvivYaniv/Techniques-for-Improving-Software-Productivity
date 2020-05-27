@@ -35,36 +35,36 @@ The students will gain more understanding on existing tools, their relevance, an
 
 ## Tools
 ### Testing Tools
-- [Random Testing](https://en.wikipedia.org/wiki/Random_testing)
--[Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
--[Fuzz Testing](https://en.wikipedia.org/wiki/Fuzz_testing)
--[Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
--[Delta Debugging](https://en.wikipedia.org/wiki/Delta_Debugging)
+- [Random Testing](https://en.wikipedia.org/wiki/Random_testing) <br/>
+-[Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) <br/>
+-[Fuzz Testing](https://en.wikipedia.org/wiki/Fuzz_testing) <br/>
+-[Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) <br/>
+-[Delta Debugging](https://en.wikipedia.org/wiki/Delta_Debugging) <br/>
 
 ### Symbolic Tools and Verification
--[Bounded Model Checking](https://en.wikipedia.org/wiki/Model_checking)
--[Concolic Execution](https://en.wikipedia.org/wiki/Concolic_testing)
--[Floyd-Hoare Style Deductive Verification](https://en.wikipedia.org/wiki/Hoare_logic)
--[Static Analysis](https://en.wikipedia.org/wiki/Abstract_interpretation)
--[Proof Assistance](https://en.wikipedia.org/wiki/Coq)
--[Chaotic Iterations implementation in Python](https://bitbucket.org/tausigplan/chaotic-iterations/)
+-[Bounded Model Checking](https://en.wikipedia.org/wiki/Model_checking) <br/>
+-[Concolic Execution](https://en.wikipedia.org/wiki/Concolic_testing) <br/>
+-[Floyd-Hoare Style Deductive Verification](https://en.wikipedia.org/wiki/Hoare_logic) <br/>
+-[Static Analysis](https://en.wikipedia.org/wiki/Abstract_interpretation) <br/>
+-[Proof Assistance](https://en.wikipedia.org/wiki/Coq) <br/>
+-[Chaotic Iterations implementation in Python](https://bitbucket.org/tausigplan/chaotic-iterations/) <br/>
 
 ### Z3 python interface tutorial
--[Basic](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/guide-examples.htm)
--[Advanced](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/advanced-examples.htm)
--[Strategies](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/strategies-examples.htm)
+-[Basic](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/guide-examples.htm) <br/>
+-[Advanced](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/advanced-examples.htm) <br/>
+-[Strategies](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/strategies-examples.htm) <br/>
 -[Fixed-Points](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/fixedpoints-examples.htm)
 
 ### Dafny
--[Dafny Online](http://rise4fun.com/Dafny/)
--[Basic Tutorial](http://rise4fun.com/Dafny/tutorial)
--[Dafny Guide](https://research.microsoft.com/en-us/um/people/leino/papers/krml220.pdf)
--[Dafny Syntax Cheet Sheet](https://docs.google.com/document/d/1kz5_yqzhrEyXII96eCF1YoHZhnb_6dzv-K3u79bMMis/edit?pref=2&pli=1)
--[Quick Reference](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
+-[Dafny Online](http://rise4fun.com/Dafny/) <br/>
+-[Basic Tutorial](http://rise4fun.com/Dafny/tutorial) <br/>
+-[Dafny Guide](https://research.microsoft.com/en-us/um/people/leino/papers/krml220.pdf) <br/>
+-[Dafny Syntax Cheet Sheet](https://docs.google.com/document/d/1kz5_yqzhrEyXII96eCF1YoHZhnb_6dzv-K3u79bMMis/edit?pref=2&pli=1) <br/>
+-[Quick Reference](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/) <br/>
 
 ### IVy
--[IVy Website](http://microsoft.github.io/ivy/)
--[Client-Server Tutorial](http://microsoft.github.io/ivy/examples/client_server_example.html)
+-[IVy Website](http://microsoft.github.io/ivy/) <br/>
+-[Client-Server Tutorial](http://microsoft.github.io/ivy/examples/client_server_example.html) <br/>
 
 ### Sketch
--[The Sketch Programmers Manual](https://people.csail.mit.edu/asolar/manual.pdf)
+-[The Sketch Programmers Manual](https://people.csail.mit.edu/asolar/manual.pdf) <br/>
