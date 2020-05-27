@@ -9,7 +9,7 @@ Many of the techniques are now implemented in research and some commercial tools
 This course focuses on pragmatical aspects. <br/>
 The students will gain more understanding on existing tools, their relevance, and limitations. <br/>
 
-# Homeworks
+## Homeworks
 [Homework 1](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/1%3B%20SAT%20%26%20SMT/soft-prod_ex1.pdf) : <br/>
 - [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Unrestricted_satisfiability_(SAT)) : [K-Clique](https://en.wikipedia.org/wiki/Clique_problem) solving with [Z3](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) <br/>
 - Unsat Core : [K-Vertex-Cover](https://en.wikipedia.org/wiki/Vertex_cover) solving with [Z3](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) <br/>
@@ -30,6 +30,41 @@ The students will gain more understanding on existing tools, their relevance, an
 - [Dafny](https://en.wikipedia.org/wiki/Dafny); an imperative compiled language that targets C# and supports formal specification through preconditions, postconditions, loop invariants and loop variants <br/> 
 
 
-[Homework 5](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/5%3B%20Abstract%20Interpretation%20%26%20Chaotic%20Iterations/soft-prod_ex5.pdf) : [Abstract Interpretation](https://en.wikipedia.org/wiki/Abstract_interpretation) <br/>
+[Homework 5](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/5%3B%20Abstract%20Interpretation%20%26%20Chaotic%20Iterations/soft-prod_ex5.pdf) : [Abstract Interpretation](https://en.wikipedia.org/wiki/Abstract_interpretation) & [Chaotic Iterations](https://bitbucket.org/tausigplan/chaotic-iterations/) <br/>
 - Implementing the May-Be-Grabage analysis <br/> 
 
+## Tools
+### Testing Tools
+- [Random Testing](https://en.wikipedia.org/wiki/Random_testing)
+-[Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+-[Fuzz Testing](https://en.wikipedia.org/wiki/Fuzz_testing)
+-[Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing)
+-[Delta Debugging](https://en.wikipedia.org/wiki/Delta_Debugging)
+
+### Symbolic Tools and Verification
+-[Bounded Model Checking](https://en.wikipedia.org/wiki/Model_checking)
+-[Concolic Execution](https://en.wikipedia.org/wiki/Concolic_testing)
+-[Floyd-Hoare Style Deductive Verification](https://en.wikipedia.org/wiki/Hoare_logic)
+-[Static Analysis](https://en.wikipedia.org/wiki/Abstract_interpretation)
+-[Proof Assistance](https://en.wikipedia.org/wiki/Coq)
+-[Chaotic Iterations implementation in Python](https://bitbucket.org/tausigplan/chaotic-iterations/)
+
+### Z3 python interface tutorial
+-[Basic](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/guide-examples.htm)
+-[Advanced](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/advanced-examples.htm)
+-[Strategies](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/strategies-examples.htm)
+-[Fixed-Points](http://www.cs.tau.ac.il/~msagiv/courses/asv/z3py/fixedpoints-examples.htm)
+
+### Dafny
+-[Dafny Online](http://rise4fun.com/Dafny/)
+-[Basic Tutorial](http://rise4fun.com/Dafny/tutorial)
+-[Dafny Guide](https://research.microsoft.com/en-us/um/people/leino/papers/krml220.pdf)
+-[Dafny Syntax Cheet Sheet](https://docs.google.com/document/d/1kz5_yqzhrEyXII96eCF1YoHZhnb_6dzv-K3u79bMMis/edit?pref=2&pli=1)
+-[Quick Reference](https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/)
+
+### IVy
+-[IVy Website](http://microsoft.github.io/ivy/)
+-[Client-Server Tutorial](http://microsoft.github.io/ivy/examples/client_server_example.html)
+
+### Sketch
+-[The Sketch Programmers Manual](https://people.csail.mit.edu/asolar/manual.pdf)
