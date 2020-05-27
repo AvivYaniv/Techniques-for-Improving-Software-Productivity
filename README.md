@@ -35,7 +35,7 @@ The students will gain more understanding on existing tools, their relevance, an
 
 ## Tools
 ### Testing Tools
-- [Random Testing](https://en.wikipedia.org/wiki/Random_testing) <br/>
+-[Random Testing](https://en.wikipedia.org/wiki/Random_testing) <br/>
 -[Unit Testing](https://en.wikipedia.org/wiki/Unit_testing) <br/>
 -[Fuzz Testing](https://en.wikipedia.org/wiki/Fuzz_testing) <br/>
 -[Mutation Testing](https://en.wikipedia.org/wiki/Mutation_testing) <br/>
