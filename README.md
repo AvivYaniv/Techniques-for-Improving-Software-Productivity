@@ -21,7 +21,7 @@ The students will gain more understanding on existing tools, their relevance, an
 - [Alloy](https://en.wikipedia.org/wiki/Alloy_(specification_language)), a declarative specification language for expressing complex structural constraints and behavior in a software system <br/>
 
 
-[Homework 3](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/3%3B%20KLEE%20%26%20CBMC/soft-prod_ex3.pdf) : [Symbolic Execution](https://en.wikipedia.org/wiki/Symbolic_execution) & [https://en.wikipedia.org/wiki/Concolic_testing](Concolic Testing) <br/>
+[Homework 3](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/3%3B%20KLEE%20%26%20CBMC/soft-prod_ex3.pdf) : [Symbolic Execution](https://en.wikipedia.org/wiki/Symbolic_execution) & [Concolic Testing](https://en.wikipedia.org/wiki/Concolic_testing) <br/>
 - [KLEE](https://klee.github.io/), versus [CBMC](http://www.cs.cmu.edu/~modelcheck/cbmc/); detecting bugs in a [bubble sort](https://en.wikipedia.org/wiki/Bubble_sort) procedure <br/>
 - [KLEE](https://klee.github.io/), versus [CBMC](http://www.cs.cmu.edu/~modelcheck/cbmc/); generating a program bug that [KLEE](https://klee.github.io/) detects and [CBMC](http://www.cs.cmu.edu/~modelcheck/cbmc/) is blind to <br/>
 
