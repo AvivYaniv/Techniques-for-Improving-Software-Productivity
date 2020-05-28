@@ -9,6 +9,10 @@ Many of the techniques are now implemented in research and some commercial tools
 This course focuses on pragmatical aspects. <br/>
 The students will gain more understanding on existing tools, their relevance, and limitations. <br/>
 
+<p align="center">
+    <img src="https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/logo/AbstractInterpretationOfIntegersBySigns.svg" width="50%"/>
+<p/>
+
 ## Homeworks
 [Homework 1](https://github.com/AvivYaniv/Techniques-for-Improving-Software-Productivity/blob/master/1%3B%20SAT%20%26%20SMT/soft-prod_ex1.pdf) : <br/>
 - [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem#Unrestricted_satisfiability_(SAT)) : [K-Clique](https://en.wikipedia.org/wiki/Clique_problem) solving with [Z3](https://en.wikipedia.org/wiki/Z3_Theorem_Prover) <br/>
