@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity.svg)](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity)
+
 # Techniques-for-Improving-Software-Productivity
 
 Developing correct and reliable software is considered a very difficult task. <br/>
