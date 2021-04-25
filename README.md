@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity.svg)](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AvivYaniv.Techniques-for-Improving-Software-Productivity.issue.1) <br/>
+[![HitCount](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity.svg)](http://hits.dwyl.com/AvivYaniv/Techniques-for-Improving-Software-Productivity)<br/>
 
 # Techniques-for-Improving-Software-Productivity
 
